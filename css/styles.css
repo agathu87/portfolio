@@ -2,11 +2,6 @@ img {
   float: left;
   width: 20%
 }
-.sidebar {
-width: 80%;
-float: right;
-background-color: purple;
-}
 @media screen and (min-width: 480px) {
     body {
         background-color: black;
@@ -22,4 +17,13 @@ background-color: purple;
 h1 {
   font-style: italic;
   color: black;
+}
+h2 {
+  font-style: italic;
+  color: black;
+}
+.sidebar {
+  width: 80%;
+  float: left;
+  background-color: purple;
 }
