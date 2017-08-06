@@ -28,7 +28,7 @@ h2 {
   background-color: purple;
 }
 .author {
-color: crimson;
+color: blue;
 }
 
 p.author {
@@ -61,4 +61,17 @@ border: 2px solid red;
 padding: 6px;
 margin: 20px;
 background-color: skyblue;
+}
+.skills p {
+  background-color: coral;
+}
+
+.current interests p {
+  background-color: steelblue;
+}
+.line1 {
+  color: pink;
+}
+#line2 {
+  color: pink;
 }
