@@ -1,14 +1,13 @@
 header {
-  background-color: pink;
+  background-color: transparent;
   height: 500px;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
 }
 
 .awe {
   text-align: center;
-  background-image: url(/home/angela/Documents/banana/O.jpg);
-  margin: 50px;
   background-color: transparent;
-  padding: 100px;
 }
 
 #mainnav {
@@ -21,4 +20,11 @@ header {
 
 li {
   line-height: 2;
+}
+
+img {
+  padding: 150px;
+  margin: 50px;
+  width: 150px;
+  height: 60px;
 }
